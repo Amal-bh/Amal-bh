@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal elbehi</h1>
 <h3 align="center">A passionate developer from Tunisia and Computer Science researcher</h3>
 
-<p align="center"> <img src="https://tenor.com/fr/view/joy-gif-25414590" alt="amal-bh" width="300" height="200"> </p>
+<p align="center"> <img src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" alt="amal-bh" width="300" height="200"> </p>
 
 
 
